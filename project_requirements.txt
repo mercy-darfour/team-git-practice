@@ -1,0 +1,5 @@
+1. User login and sign up  
+2. Responsive design  
+3. User experience 
+4. Database optimization  
+5. User testing  
